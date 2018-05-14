@@ -1,6 +1,6 @@
 # Spoiled_Boss
-Copyright@ACG
-This project copyright belong to ACG team.
+Copyright@PMS
+This project copyright belong to PMS team.
 If you want to download as private/publik use please infon us.
 
 Method: 
