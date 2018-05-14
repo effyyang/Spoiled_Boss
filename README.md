@@ -1,8 +1,8 @@
 # Spoiled_Boss
-Copyright@PMS
-This project copyright belong to PMS team.
-If you want to download as private/publik use please infon us.
+Copyright@PMS<br />
+This project copyright belong to PMS team.<br />
+If you want to download as private/publik use please infon us.<br />
 
-Method: 
-mainMenu.cs:control menus switch panel
+Method: <br />
+mainMenu.cs:control menus switch panel<br />
 GMManager.cs:deliver values, calculate environments, main machanisc.
